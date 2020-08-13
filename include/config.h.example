@@ -1,0 +1,11 @@
+#define USER_SSID ""
+#define USER_PASSWORD ""
+#define USER_MQTT_SERVER ""
+#define USER_MQTT_PORT 1883
+#define USER_MQTT_USERNAME NULL
+#define USER_MQTT_PASSWORD NULL
+#define USER_MQTT_CLIENT_NAME "USB_Switch"
+
+#define HTTPUpdateServer
+#define USER_HTTP_USERNAME "Updater"
+#define USER_HTTP_PASSWORD ""
